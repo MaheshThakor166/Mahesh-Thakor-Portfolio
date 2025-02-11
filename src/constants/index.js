@@ -21,7 +21,7 @@ export const EXPERIENCES = [
     "role": "Frontend Developer Intern",
     "company": "Soltrack Technologies",
     "description": "Designed and developed user interfaces for web applications using React.js and JavaScript. Worked closely with backend developers to integrate frontend components with APIs. Implemented responsive designs and optimized frontend performance.",
-    "technologies": ["HTML", "CSS","Tailwind-Css"    "JavaScript", "React.js", "Responsive Design"]
+    "technologies": ["HTML", "CSS","Tailwind-Css","JavaScript", "React.js", "Responsive Design"]
   },
 ]
 
