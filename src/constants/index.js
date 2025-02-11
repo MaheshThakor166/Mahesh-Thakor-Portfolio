@@ -46,13 +46,7 @@ export const PROJECTS = [
       'A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.',
     technologies: ['HTML', 'CSS', 'React', 'Node.js', 'MongoDB'],
   },
-  {
-    title: 'Task Management App',
-    image: project2,
-    description:
-      'An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.',
-    technologies: ['HTML', 'CSS', 'Angular', 'Firebase'],
-  },
+ 
   {
     title: 'Portfolio Website',
     image: project3,
