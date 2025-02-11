@@ -8,6 +8,23 @@ export const HERO_CONTENT = `I am a passionate full stack developer with a knack
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`
 
 export const EXPERIENCES = [
+  
+  {
+    "year": '2024 - Present',
+    "role": "MERN Stack Developer",
+    "company": "Vibrant India Tech",
+    "description": "Developed and maintained full-stack web applications using Node.js, Express.js, React.js, and MongoDB. Built RESTful APIs, optimized database queries, and improved application performance. Worked closely with the frontend team to ensure seamless API integration and user experience.",
+    "technologies": ["JavaScript", "React.js", "Node.js", "Express.js", "MongoDB", "RESTful APIs"]
+  },
+  {
+    "year": '2023 - 2024',
+    "role": "Frontend Developer Intern",
+    "company": "Soltrack Technologies",
+    "description": "Designed and developed user interfaces for web applications using React.js and JavaScript. Worked closely with backend developers to integrate frontend components with APIs. Implemented responsive designs and optimized frontend performance.",
+    "technologies": ["HTML", "CSS", "JavaScript", "React.js", "Responsive Design", "API Integration"]
+  }
+,
+
   {
     year: '2023 - Present',
     role: 'Senior Full Stack Developer',
